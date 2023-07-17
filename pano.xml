@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5" appversion="7.0" apprev="19876">
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400" width="1000" levelbiashidpi="1.000" overlap="1" levelingroll="0" height="1000">
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-1.15" tilt="7.23" fov="121.67"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" comment="" tags="pic" altitude="-3048.00" copyright="" longitude="" customnodeid="" info="" nodeid="node5" author="" datetime="" latitude="" description="a" source="" title=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="1" height="20">
+      <label border="1" wordwrap="1" borderalpha="1" bordercolor="0x000000" width="180" enabled="1" backgroundalpha="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot id="Point01" target="" pan="-48.25" tilt="-7.07" description="" title="" url="{node4}" skinid="ht_arrow"/>
+      <hotspot id="Point02" target="" pan="-311.35" tilt="-6.39" description="" title="" url="{node1}" skinid="ht_arrow"/>
+      <hotspot id="Point03" target="_blank" pan="-2.77" tilt="-7.08" description="" title="" url="" skinid="hs_info"/>
+    </hotspots>
+    <media>
+      <webelement stretch="0.986" hidepinned="0" rotz="0.570" tilt="32.260" rotx="32.890" roty="-2.000" width="480" popbackmode="0" handcursor="0" id="Element01" pan="-1.040" clickmode="0" fov="42.210" code="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Zf4SMqRKEZo?autoplay=1&quot; title=&quot;Unifilaw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen>&lt;/iframe>&#xa;" height="270"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" delay="none" zoomafterinfov="140" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" type="crossdissolve" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control simulatemass="1" contextfullscreen="1" contextprojections="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="0" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400" width="1000" levelbiashidpi="1.000" overlap="1" levelingroll="0" height="1000">
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="93.69" tilt="0.97" fov="112.56"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" comment="" tags="pic" altitude="-3048.00" copyright="" longitude="" customnodeid="" info="" nodeid="node1" author="" datetime="" latitude="" description="c" source="" title=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="1" height="20">
+      <label border="1" wordwrap="1" borderalpha="1" bordercolor="0x000000" width="180" enabled="1" backgroundalpha="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot id="Point01" target="" pan="-71.29" tilt="-4.21" description="" title="" url="{node5}" skinid="ht_arrow"/>
+    </hotspots>
+    <media>
+      <webelement stretch="0.877" hidepinned="0" rotz="1.501" tilt="2.328" rotx="1.751" roty="-40.511" width="480" popbackmode="0" handcursor="0" id="Element01" pan="52.983" clickmode="0" fov="37.431" code="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Zf4SMqRKEZo?autoplay=1&quot; title=&quot;IONMEDI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen>&lt;/iframe>&#xa;&#xa;" height="270"/>
+      <webelement stretch="0.914" hidepinned="0" rotz="-2.062" tilt="2.334" rotx="4.058" roty="34.308" width="480" popbackmode="0" handcursor="0" id="Element02" pan="146.633" clickmode="0" fov="36.840" code="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Zf4SMqRKEZo&quot; title=&quot;Lapacifi&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen>&lt;/iframe>" height="270"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" delay="none" zoomafterinfov="140" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" type="crossdissolve" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control simulatemass="1" contextfullscreen="1" contextprojections="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="0" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400" width="1000" levelbiashidpi="1.000" overlap="1" levelingroll="0" height="1000">
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="77.33" tilt="9.65" fov="104.06"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" comment="" tags="pic" altitude="-3048.00" copyright="" longitude="" customnodeid="" info="" nodeid="node2" author="" datetime="" latitude="" description="d" source="" title=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="1" height="20">
+      <label border="1" wordwrap="1" borderalpha="1" bordercolor="0x000000" width="180" enabled="1" backgroundalpha="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot id="Point01" target="-34.9/8.0/121.8" pan="-311.33" tilt="-16.41" description="" title="" url="{node3}" skinid="ht_arrow"/>
+    </hotspots>
+    <media>
+      <webelement stretch="0.996" hidepinned="0" rotz="-6.400" tilt="10.290" rotx="12.880" roty="32.300" width="480" popbackmode="0" handcursor="0" id="Element01" pan="-58.510" clickmode="0" fov="41.910" code="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Zf4SMqRKEZo&quot; title=&quot;Fititans&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen>&lt;/iframe>" height="270"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" delay="none" zoomafterinfov="140" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" type="crossdissolve" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control simulatemass="1" contextfullscreen="1" contextprojections="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="0" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400" width="1000" levelbiashidpi="1.000" overlap="1" levelingroll="0" height="1000">
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="4.72" tilt="18.12" fov="121.76"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" comment="" tags="pic" altitude="-3048.00" copyright="" longitude="" customnodeid="" info="" nodeid="node3" author="" datetime="" latitude="" description="d" source="" title=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="1" height="20">
+      <label border="1" wordwrap="1" borderalpha="1" bordercolor="0x000000" width="180" enabled="1" backgroundalpha="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot id="Point01" target="-158.7/3.7/104.1" pan="-244.54" tilt="-15.73" description="" title="" url="{node2}" skinid="ht_arrow"/>
+    </hotspots>
+    <media>
+      <webelement stretch="0.979" hidepinned="0" rotz="-1.135" tilt="24.017" rotx="24.233" roty="3.250" width="480" popbackmode="0" handcursor="0" id="Element01" pan="3.056" clickmode="0" fov="83.460" code="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Zf4SMqRKEZo&quot; title=&quot;Fititans&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen>&lt;/iframe>" height="270"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" delay="none" zoomafterinfov="140" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" type="crossdissolve" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control simulatemass="1" contextfullscreen="1" contextprojections="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="0" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400" width="1000" levelbiashidpi="1.000" overlap="1" levelingroll="0" height="1000">
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" pan="-39.05" tilt="3.78" fov="87.93"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="330" pan="360" tilt="90" fov="140" fovfisheye="360"/>
+    </view>
+    <userdata heading="0" comment="" tags="pic" altitude="-3048.00" copyright="" longitude="" customnodeid="" info="" nodeid="node4" author="" datetime="" latitude="" description="b" source="" title=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="1" height="20">
+      <label border="1" wordwrap="1" borderalpha="1" bordercolor="0x000000" width="180" enabled="1" backgroundalpha="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0"/>
+      <hotspot id="Point01" target="" pan="-212.93" tilt="-7.86" description="" title="" url="{node5}" skinid="ht_arrow"/>
+    </hotspots>
+    <media>
+      <webelement stretch="1.000" hidepinned="0" rotz="0.526" tilt="1.296" rotx="3.917" roty="-18.388" width="480" popbackmode="0" handcursor="0" id="Element01" pan="-63.340" clickmode="0" fov="27.937" code="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Zf4SMqRKEZo&quot; title=&quot;Ninideas&quot; frameborder=&quot;0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen>&lt;/iframe>" height="270"/>
+    </media>
+    <transition zoomoutpause="1" blendcolor="0x000000" blendtime="1" softedge="0" delay="none" zoomafterinfov="140" enabled="1" zoomspeed="2" zoomfov="40" zoomafteroutfov="40" type="crossdissolve" zoomout="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control simulatemass="1" contextfullscreen="1" contextprojections="0" invertwheel="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="0" lockedmouse="0" lockedkeyboardzoom="0" invertcontrol="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" tags="" description="1" copyright="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
